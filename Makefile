@@ -1,2 +1,0 @@
-proxy-dp:
-	code proxy
